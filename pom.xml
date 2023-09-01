@@ -33,8 +33,8 @@
                 <sonar.tokens>
                 sqp_6a2f27b135731efcc14325133db383b075390c23
                 <sonar.tokens>
-                <sonar.login>admin</sonar.login>
-                <sonar.password>raju</sonar.password>
+                <!--sonar.login>admin</sonar.login-->
+                <!--sonar.password>raju</sonar.password-->
               </properties>
         </profile>
      </profiles>
